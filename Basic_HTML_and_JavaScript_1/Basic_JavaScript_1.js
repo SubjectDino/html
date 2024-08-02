@@ -1,0 +1,1 @@
+alert ("hey buddy, this is an alert box");  
