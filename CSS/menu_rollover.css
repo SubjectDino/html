@@ -12,7 +12,7 @@ body
     background-color: #184352
 }
 
-.menu-countainer
+.menu-container
 {
     top: 0;
     left: 0;
@@ -75,7 +75,7 @@ body
     color: #B3B3B3
 }
 
-.subment li:hover
+.submenu li:hover
 {
     color: #fff;
     background-color: #5EAFDF;
